@@ -1,6 +1,5 @@
 Got it! Here's the **README.md** file with the content written for you. You can copy this into your `README.md` file.
 
-```markdown
 # Hotel Rating - Machine Learning
 
 This project uses Machine Learning to predict hotel ratings based on features such as customer reviews, amenities, and location. The model is trained using a dataset, and the goal is to provide accurate ratings for hotels.
